@@ -45,8 +45,8 @@ Estudante de Ciência da Computação na UNIP com experiência prática no desen
   - API RESTful completa de trocas sustentáveis, com autenticação JWT, persistência com Spring Data JPA e containerização com Docker.
 
 - **[Sistema Bancário em Java](https://github.com/PedrorCastro/Sistema-Bancario-Java)**
-  - *Techs:* Java, POO, Collections, Exceptions, JUnit 5.
-  - Aplicação orientada a objetos para simulação de regras bancárias (contas corrente/poupança, histórico de transações) com cobertura de testes unitários em JUnit 5.
+  - *Techs:* Java 17, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, Docker, JUnit 5.
+  - Aplicação bancária completa em arquitetura em camadas e RESTful API. Possui regras de negócio para contas (Corrente/Poupança), transferências atômicas (`@Transactional`), tratamento global de exceções, containerização com Docker e banco PostgreSQL.
 
 - **[Imersão Engenharia de Dados](https://github.com/PedrorCastro/Imers-o_Engenharia_de_Dados)**
   - *Techs:* Python, Jupyter Notebook, IA Generativa.
