@@ -38,14 +38,6 @@ Estudante de Ciência da Computação na UNIP com experiência prática no desen
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedrorCastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/PedrorCastro)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-languages/?username=PedrorCastro&layout=compact&theme=dark)](https://github.com/PedrorCastro)
-
----
-
 ### 📌 Projetos em Destaque
 
 - **[REUSEMI - Plataforma de Trocas Sustentáveis](https://github.com/PedrorCastro/reusemi-java-springboot)**
