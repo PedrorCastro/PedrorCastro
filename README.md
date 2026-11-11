@@ -40,10 +40,9 @@ Estudante de Ciência da Computação na UNIP com experiência prática no desen
 
 ### 📊 Estatísticas no GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PedrorCastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-languages/?username=PedrorCastro&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedrorCastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/PedrorCastro)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-languages/?username=PedrorCastro&layout=compact&theme=dark)](https://github.com/PedrorCastro)
 
 ---
 
