@@ -8,7 +8,7 @@ Estudante de Ciência da Computação na UNIP com experiência prática no desen
 
 ### 🚀 Sobre Mim
 - 💼 **Atualidade:** Analista de Suporte (N1) na Prosoft by Alterdata, atuando na análise de logs e consultas SQL diretas no banco de dados.
-- 🎓 **Formação:** Bacharelado em Ciência da Computação (UNIP).
+- 🎓 **Formação:** Bacharelado em andamento de Ciência da Computação (UNIP).
 - ☁️ **Cloud & AWS:** Trilha AWS Developer Learning Plan em andamento (Serverless, Lambda, Containers, API Gateway).
 - 🎯 **Foco Profissional:** Oportunidades 100% remotas como Desenvolvedor Backend Java Júnior ou Estagiário em Desenvolvimento de Software.
 - 📬 **Contacto:** [LinkedIn](https://linkedin.com/in/pedro-castro-bezerra) | [Email](mailto:pedrorcastro@hotmail.com) | **Localização:** São José dos Campos - SP
